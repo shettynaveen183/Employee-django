@@ -1,0 +1,19 @@
+emp proj
+
+
+emp reg
+   migratiions
+       templ'   
+          emp reg
+        emp form.html
+         emp list.html
+
+    models.py
+     forms.py
+     urls.py
+     views.py
+
+empl proj
+   
+   settings.py 
+    urls.py
